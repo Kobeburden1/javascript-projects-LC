@@ -42,4 +42,4 @@ console.log(hoursToMoon);
 const daysToMoon= hoursToMoon / 24;
 console.log(daysToMoon);
 
-console.log("Determiation will take 0.5683628571428571 days to reach the Moon");
+console.log("Determination will take 0.5683628571428571 days to reach the Moon");
